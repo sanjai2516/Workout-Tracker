@@ -1,1 +1,77 @@
+Software Requirements Specification (SRS) for Workout Tracker Project
+1. Introduction
+This Software Requirements Specification (SRS) document describes the functional and non-functional requirements for a Workout Tracker application. The Workout Tracker application is a mobile application that allows users to track their workouts, including the exercises they performed, the sets and reps they completed, and the weight they lifted. The application also allows users to set goals, track their progress over time, and generate reports.
+
+1.1 Purpose
+
+The purpose of this document is to provide a clear and concise description of the Workout Tracker application to be developed. This document will be used by the development team to ensure that the application meets the needs of the users.
+
+1.2 Document Conventions
+
+The following conventions are used in this document:
+•	Shall: Indicates a mandatory requirement.
+•	Should: Indicates a recommended requirement.
+•	May: Indicates an optional requirement.
+
+1.3 Scope
+
+This document describes the requirements for the Workout Tracker application, including the following features:
+•	Tracking workouts, including the exercises performed, the sets and reps completed, and the weight lifted.
+•	Setting goals and tracking progress over time.
+•	Generating reports.
+
+1.4 Overview
+The Workout Tracker application is a mobile application that will be available for both iOS and Android devices. The application will be free to download and use, with the option to purchase premium features such as additional workouts and training plans.
+2. Functional Requirements
+The Workout Tracker application shall have the following functional requirements:
+•	Users shall be able to create and manage their own workouts.
+•	Users shall be able to track their progress over time by viewing their workout history and tracking their performance metrics.
+•	Users shall be able to set goals and track their progress towards those goals.
+•	Users shall be able to generate reports to track their progress over time and share their results with others.
+
+2.1 Tracking Workouts
+
+Users shall be able to track their workouts by logging the following information:
+•	The date and time of the workout.
+•	The exercises performed.
+•	The sets and reps completed for each exercise.
+•	The weight lifted for each exercise.
+•	Any other relevant notes or comments.
+
+2.2 Setting Goals and Tracking Progress
+
+Users shall be able to set goals for themselves and track their progress towards those goals. Goals can be set for specific exercises, such as lifting a certain weight or completing a certain number of reps, or for overall fitness goals, such as losing weight or increasing muscle mass.
+
+2.3 Generating Reports
+
+Users shall be able to generate reports to track their progress over time and share their results with others. Reports can be generated for specific exercises, specific dates or time periods, or for overall fitness goals.
+
+3. Non-Functional Requirements
+
+The Workout Tracker application shall have the following non-functional requirements:
+•	Usability: The application shall be easy to use and navigate.
+•	Performance: The application shall be responsive and perform well on a variety of devices.
+•	Security: The application shall be secure and protect user data.
+•	Maintainability: The application shall be easy to maintain and update.
+
+3.1 Usability
+
+The Workout Tracker application shall be easy to use and navigate for users of all skill levels. The application shall have a clear and concise user interface, with intuitive controls and helpful documentation.
+
+3.2 Performance
+
+The Workout Tracker application shall be responsive and perform well on a variety of devices, including smartphones, tablets, and wearables. The application shall be able to handle large amounts of data without any noticeable performance degradation.
+
+3.3 Security
+
+The Workout Tracker application shall be secure and protect user data. The application shall use industry-standard security measures to protect user data from unauthorized access, use, disclosure, disruption, modification, or destruction.
+
+3.4 Maintainability
+
+The Workout Tracker application shall be easy to maintain and update. The application shall be designed in a modular way, with well-defined interfaces between modules. The application shall also come with comprehensive documentation, including code comments and design diagrams.
+
+4. Conclusion
+
+This SRS document has described the functional and non-functional requirements for the Workout Tracker application. The development team will use this document to ensure that the application meets the needs of the users.
+
 
